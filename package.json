@@ -94,7 +94,7 @@
         "karma": "^0.13.22",
         "karma-chrome-launcher": "^1.0.1",
         "karma-coverage": "^0.5.5",
-        "karma-jasmine": "^0.3.8",
+        "karma-jasmine": "^1.0.2",
         "karma-sourcemap-loader": "^0.3.7",
         "karma-webpack": "^1.7.0",
         "parse5": "^2.1.5",
