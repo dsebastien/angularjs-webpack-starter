@@ -102,7 +102,7 @@
         "karma-firefox-launcher": "^1.0.0",
         "karma-junit-reporter": "^2.0.0",
         "karma-spec-reporter": "^0.0.26",
-        "karma-mocha-reporter": "^2.0.3",
+        "karma-mocha-reporter": "^2.0.4",
         "karma-ie-launcher": "^1.0.0",
         "remap-istanbul": "^0.6.4",
         "protractor": "^3.2.2",
