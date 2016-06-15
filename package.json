@@ -34,7 +34,7 @@
     "dependencies": {
         "angular": "^1.5.2",
         "angular-animate": "^1.5.2",
-        "angular-aria": "^1.5.2",
+        "angular-aria": "^1.5.7",
         "angular-material": "^1.0.8",
         "angular-messages": "^1.5.2",
         "angular-mocks": "^1.5.2",
