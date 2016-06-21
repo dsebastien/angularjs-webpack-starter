@@ -107,7 +107,7 @@
         "remap-istanbul": "^0.6.4",
         "protractor": "^3.2.2",
         "sinon": "^1.17.4",
-        "superstatic": "^4.0.2",
+        "superstatic": "^4.0.3",
         "mkdirp": "^0.5.1",
         "webpack-merge": "^0.12.0"
     },
