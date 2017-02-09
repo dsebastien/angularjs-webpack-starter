@@ -104,7 +104,7 @@
         "karma-spec-reporter": "^0.0.26",
         "karma-mocha-reporter": "^2.0.3",
         "karma-ie-launcher": "^1.0.0",
-        "remap-istanbul": "^0.6.4",
+        "remap-istanbul": "^0.9.1",
         "protractor": "^3.2.2",
         "sinon": "^1.17.4",
         "superstatic": "^4.0.2",
