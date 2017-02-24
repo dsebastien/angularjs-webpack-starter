@@ -76,7 +76,7 @@
         "webpack-sha-hash": "^1.0.0",
         "raw-loader": "^0.5.1",
         "file-loader": "^0.8.5",
-        "url-loader": "^0.5.7",
+        "url-loader": "^0.5.8",
         "json-loader": "^0.5.4",
         "style-loader": "^0.13.1",
         "exports-loader": "^0.6.3",
