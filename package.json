@@ -45,7 +45,7 @@
         "angular-translate": "^2.11.0",
         "angular-translate-loader-static-files": "^2.10.0",
         "core-js": "^2.4.0",
-        "immutable": "^3.7.6",
+        "immutable": "^3.8.1",
         "immutable-angular": "^0.1.1",
         "js-data": "^2.9.0",
         "js-data-angular": "^3.2.1",
