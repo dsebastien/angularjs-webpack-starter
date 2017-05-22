@@ -106,7 +106,7 @@
         "karma-ie-launcher": "^1.0.0",
         "remap-istanbul": "^0.6.4",
         "protractor": "^3.2.2",
-        "sinon": "^1.17.4",
+        "sinon": "^2.3.0",
         "superstatic": "^4.0.2",
         "mkdirp": "^0.5.1",
         "webpack-merge": "^0.12.0"
