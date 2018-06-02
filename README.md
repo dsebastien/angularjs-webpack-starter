@@ -2,7 +2,7 @@
 
 [![Dependency Status](https://david-dm.org/dsebastien/angularjs-webpack-starter.svg?theme=shields.io&style=flat)](https://david-dm.org/dsebastien/angularjs-webpack-starter)
 [![devDependency Status](https://david-dm.org/dsebastien/angularjs-webpack-starter/dev-status.svg?theme=shields.io&style=flat)](https://david-dm.org/dsebastien/angularjs-webpack-starter#info=devDependencies)
-[![License](https://img.shields.io/cocoapods/l/AFNetworking.svg)](LICENSE.MD)
+[![License](https://img.shields.io/cocoapods/l/AFNetworking.svg)](LICENSE.MD) [![Greenkeeper badge](https://badges.greenkeeper.io/dsebastien/angularjs-webpack-starter.svg)](https://greenkeeper.io/)
 
 ## About
 A Webpack Starter kit featuring:
